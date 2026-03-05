@@ -33,3 +33,7 @@
 0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 partner.googleadservices.com
 0.0.0.0 cm.g.doubleclick.net
+0.0.0.0 view.clvrads.com
+0.0.0.0 clvrads.com
+0.0.0.0 static.clvrads.com
+0.0.0.0 ads.clvrads.com
