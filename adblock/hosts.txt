@@ -20,3 +20,8 @@
 0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 ad.doubleclick.net
 0.0.0.0 trc.taboola.com
+0.0.0.0 taboola.com
+0.0.0.0 cdn.taboolasyndication.com
+0.0.0.0 popup.taboola.com
+0.0.0.0 api.taboola.com
+0.0.0.0 images.taboola.com
