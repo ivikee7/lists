@@ -19,3 +19,4 @@
 0.0.0.0 adnxs.com
 0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 ad.doubleclick.net
+0.0.0.0 trc.taboola.com
