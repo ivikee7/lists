@@ -37,3 +37,10 @@
 0.0.0.0 clvrads.com
 0.0.0.0 static.clvrads.com
 0.0.0.0 ads.clvrads.com
+0.0.0.0 ads-twitter.com
+0.0.0.0 tellapart.com
+0.0.0.0 twitterflightschool.com
+0.0.0.0 twitterbiz.com
+0.0.0.0 analytics.twitter.com
+0.0.0.0 ads.twitter.com
+0.0.0.0 static.ads-twitter.com 
