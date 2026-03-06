@@ -1,3 +1,4 @@
+# hotstar
 0.0.0.0 hesads.akamaized.net
 0.0.0.0 ads.hotstar.com
 0.0.0.0 videoads.hotstar.com
@@ -19,12 +20,14 @@
 0.0.0.0 adnxs.com
 0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 ad.doubleclick.net
+# taboola
 0.0.0.0 trc.taboola.com
 0.0.0.0 taboola.com
 0.0.0.0 cdn.taboolasyndication.com
 0.0.0.0 popup.taboola.com
 0.0.0.0 api.taboola.com
 0.0.0.0 images.taboola.com
+# Google
 0.0.0.0 googleadservices.com
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 pagead2.googlesyndication.com
@@ -33,10 +36,12 @@
 0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 partner.googleadservices.com
 0.0.0.0 cm.g.doubleclick.net
+
 0.0.0.0 view.clvrads.com
 0.0.0.0 clvrads.com
 0.0.0.0 static.clvrads.com
 0.0.0.0 ads.clvrads.com
+# twitter
 0.0.0.0 ads-twitter.com
 0.0.0.0 tellapart.com
 0.0.0.0 twitterflightschool.com
