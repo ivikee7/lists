@@ -36,6 +36,14 @@
 0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 partner.googleadservices.com
 0.0.0.0 cm.g.doubleclick.net
+# YouTube 
+0.0.0.0 s.youtube.com
+0.0.0.0 video-stats.l.google.com
+0.0.0.0 ads.google.com
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 ://googlesyndication.com
+0.0.0.0 youtube-ui.l.google.com
+0.0.0.0 static.doubleclick.net
 
 0.0.0.0 view.clvrads.com
 0.0.0.0 clvrads.com
